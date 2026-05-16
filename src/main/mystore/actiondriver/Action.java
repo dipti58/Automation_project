@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.mystore.actiondriver;
 
 import java.io.File;
